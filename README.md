@@ -1,6 +1,6 @@
 # TryHackMe Database
 
-<img src="picture.png" alt="Alt-Text" width="200" height="200">
+<img src="picture.png" alt="Alt-Text" width="400" height="400">
 
 My own private TryHackMe Database to lookup for answers.
 
